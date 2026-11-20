@@ -1,0 +1,137 @@
+{
+  "title": "NACHTSCHICHT - Higgsfield motion pass",
+  "model": "seedance_2_5",
+  "mode": "omni_reference",
+  "aspect_ratio": "16:9",
+  "generate_audio": false,
+  "resolution": {
+    "hero": "1080p",
+    "standard": "720p"
+  },
+  "credits_per_clip": {
+    "1080p": 80,
+    "720p": 35
+  },
+  "note": "Each clip animates one existing plate as its start frame, so the look of the still cut carries over.",
+  "shots": [
+    {
+      "id": "skyline",
+      "start_image": "assets/plates/skyline.jpg",
+      "tier": "standard",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow, steady crane rise of about half a metre with a gentle push toward the TV tower. What moves: low clouds slide across the tower, its red aviation lights blink once per second, a few apartment windows switch on and off, thin rain crosses the frame, the rusty antenna trembles in the wind. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "stairwell",
+      "start_image": "assets/plates/stairwell.jpg",
+      "tier": "standard",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow Steadicam walk forward toward the stairs at chest height. What moves: the fluorescent tube flickers and buzzes irregularly, dust drifts through its light, the steel door on the right swings a few centimetres in the draught and the amber streetlight on the floor shifts with it. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "block_suv",
+      "start_image": "assets/plates/block_suv.jpg",
+      "tier": "hero",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: low, slow dolly from left to right past the kerb, parallax between the SUV and the tower block. What moves: steady rain falls and splashes in the puddles, fog rolls along the ground, the streetlamp flickers once, reflections ripple on the wet asphalt, one window in the block goes dark. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "coupe",
+      "start_image": "assets/plates/coupe.jpg",
+      "tier": "hero",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow push-in at bumper height straight toward the car. What moves: the headlights flare and pulse slightly as fog drifts through the beams, water drips from the concrete ceiling into the puddles, the reflections shimmer, the car itself stays perfectly still with the engine idling. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "taillights",
+      "start_image": "assets/plates/taillights.jpg",
+      "tier": "hero",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: very low tracking arc from the left rear corner toward the centre of the car. What moves: thick exhaust smoke pours from the quad pipes and rolls over the asphalt, lit red by the tail lights, the brake lights brighten once, fine drizzle hangs in the air, the red reflections ripple in the puddles. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "chain",
+      "start_image": "assets/plates/chain.jpg",
+      "tier": "standard",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow macro slide to the right with a slight rack focus along the links. What moves: raindrops run down the window behind, passing streetlights sweep warm highlights across the gold links from left to right, a single drop of water slides off one link onto the leather. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "doberman",
+      "start_image": "assets/plates/doberman.jpg",
+      "tier": "hero",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow push-in toward the dog's face at eye level. What moves: the dog stays seated and breathes calmly, its breath forms short clouds in the cold air, the ears twitch once and the eyes follow the camera, the chain collar shifts slightly, rain glistens on the fur, the lights behind stay out of focus. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "cash",
+      "start_image": "assets/plates/cash.jpg",
+      "tier": "standard",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow low orbit of about fifteen degrees around the bag. What moves: dust floats through the hard top light, two loose banknotes on the floor lift and slide in a draught, the leather creases catch the light as the angle changes. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "ubahn",
+      "start_image": "assets/plates/ubahn.jpg",
+      "tier": "hero",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: locked-off camera on the platform, a slight handheld breathing only. What moves: the yellow train keeps rushing past on the left as streaking light and then clears the platform, leaving the dark tunnel, the ceiling lights flicker once in its wake, the wet floor reflections settle, a discarded paper cup rolls a few centimetres in the wind of the train. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "watch",
+      "start_image": "assets/plates/watch.jpg",
+      "tier": "standard",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow macro push-in toward the dial with a slight tilt. What moves: the second hand sweeps smoothly, the chronograph hands stay still, warm highlights travel across the polished case and bracelet, a water droplet on the glass table trembles and runs. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "tunnel",
+      "start_image": "assets/plates/tunnel.jpg",
+      "tier": "hero",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow Steadicam walk forward through the underpass toward the foggy exit. What moves: the fluorescent tube flickers, fog drifts in from the far end and glows amber, drips fall from the ceiling into the puddles and send out rings, the reflections on the ground slide past with the movement. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "kiosk",
+      "start_image": "assets/plates/kiosk.jpg",
+      "tier": "standard",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow lateral dolly from left to right along the street, the kiosk passing through frame. What moves: rain falls steadily, steam rises from the street grate and drifts across the neon, the red neon tube flickers once, the bicycle's front wheel turns slowly in the wind, distant car headlights pass at the end of the street. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "interior",
+      "start_image": "assets/plates/interior.jpg",
+      "tier": "standard",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow push-in from the back seat toward the windscreen between the front seats. What moves: raindrops run down the windscreen and merge, city lights outside drift past as soft bokeh as if the car is rolling slowly, the red ambient light strip pulses faintly, the windscreen wipers stay off, the seats stay empty. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "boxing",
+      "start_image": "assets/plates/boxing.jpg",
+      "tier": "standard",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow dolly-in toward the heavy bag with a slight upward tilt. What moves: the bag swings gently on its chain as if just hit, the chain creaks and rotates slightly, dust swirls in the cone of light from the bare bulb, the bulb sways a few centimetres and the shadows move with it. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "cage",
+      "start_image": "assets/plates/cage.jpg",
+      "tier": "standard",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow dolly back behind the chain-link fence, the fence wires sliding through the foreground out of focus. What moves: heavy fog drifts through the floodlight beam, drizzle falls through the light, the football rolls slowly a short distance across the wet ground, a few windows in the blocks change. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "shisha",
+      "start_image": "assets/plates/shisha.jpg",
+      "tier": "standard",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: slow arc of about twenty degrees around the hookah at table height. What moves: thick white smoke curls up from the bowl and drifts slowly to the left through the purple light, the coals glow brighter and dimmer, the hose sways slightly, reflections move across the cut glass base. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    },
+    {
+      "id": "studio",
+      "start_image": "assets/plates/studio.jpg",
+      "tier": "hero",
+      "duration": 5,
+      "prompt": "One continuous real shot. Camera: very slow push-in toward the microphone, ending in a close-up of the pop filter. What moves: haze drifts through the warm side light, dust floats in the beam, the red recording light above pulses slowly, the headphones on the stand swing a few millimetres, the booth stays empty. Photographed on an ARRI Alexa 35 with anamorphic lenses, 24 fps, 180-degree shutter with natural motion blur, real-time speed, fine film grain, deep teal-black shadows and warm sodium highlights. Keep the start frame's composition, lighting and colours exactly. No people, no text, no logos, no new objects appearing, no morphing, no cuts, no slow motion."
+    }
+  ]
+}
